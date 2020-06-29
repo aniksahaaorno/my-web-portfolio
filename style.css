@@ -1,0 +1,32 @@
+body{
+
+    font-family: 'Dancing Script', cursive;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.highlight{
+
+    color: red;
+}
+.logical{
+    
+      width:40%;
+      float:left;
+      margin-left:5%;
+      padding: 2%;
+}
+.logical img{
+
+      width:100%
+}
+.bc{
+
+     background-image: url("top-banner.png");
+     height: 500px;
+     background-repeat: no-repeat;
+
+}
